@@ -1,0 +1,280 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="corrugadosyplegadizos.com" resolutions="1x" timestamp="1559692956474">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="353418625" ref="historia:contacto:index:compromiso:servicio:faq-s:productos:caja-bliss-nº2-o-nº4:caja-telescópica:caja-regular:caja-traslape:divisiones:caja-tapas-yo-fondos-cruzados:crucetas:caja-suajada"/>
+    <file name="historia.css" crc="3838927386" ref="historia"/>
+    <file name="contacto.css" crc="19693813" ref="contacto"/>
+    <file name="index.css" crc="232985493" ref="index"/>
+    <file name="compromiso.css" crc="4023237704" ref="compromiso"/>
+    <file name="servicio.css" crc="3960944292" ref="servicio"/>
+    <file name="faq-s.css" crc="4200091206" ref="faq-s"/>
+    <file name="productos.css" crc="4196152743" ref="productos"/>
+    <file name="caja-bliss-n_2-o-n_4.css" crc="3792769763" ref="caja-bliss-nº2-o-nº4"/>
+    <file name="caja-telesc_pica.css" crc="4176875135" ref="caja-telescópica"/>
+    <file name="caja-regular.css" crc="245307089" ref="caja-regular"/>
+    <file name="caja-traslape.css" crc="222698111" ref="caja-traslape"/>
+    <file name="divisiones.css" crc="516773172" ref="divisiones"/>
+    <file name="caja-tapas-yo-fondos-cruzados.css" crc="431032105" ref="caja-tapas-yo-fondos-cruzados"/>
+    <file name="crucetas.css" crc="488030418" ref="crucetas"/>
+    <file name="caja-suajada.css" crc="4091522438" ref="caja-suajada"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="museutils.js" crc="4216313831" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="whatinput.js" crc="86476730" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="museconfig.js" crc="474374037" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="historia:productos:servicio:faq-s:compromiso:contacto:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="html5shiv.js" crc="4241844378" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="require.js" crc="3951022091" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="webpro.js" crc="4143865194" ref="contacto:index"/>
+    <file name="form_check.php" crc="154010282" ref="contacto"/>
+    <file name="form_throttle.php" crc="266437015" ref="contacto"/>
+    <file name="form_process.php" crc="512629711" ref="contacto"/>
+    <file name="form-u2730.php" crc="4076661260" ref="contacto"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="494934025" seo="true" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica">
+      <caption webpage="caja-bliss-nº2-o-nº4" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="crucetas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="caja-traslape" alt=""/>
+      <caption webpage="faq-s" alt=""/>
+      <caption webpage="servicio" alt=""/>
+      <caption webpage="caja-telescópica" alt=""/>
+      <caption webpage="caja-suajada" alt=""/>
+      <caption webpage="compromiso" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="caja-regular" alt=""/>
+      <caption webpage="divisiones" alt=""/>
+      <caption webpage="caja-tapas-yo-fondos-cruzados" alt=""/>
+    </file>
+    <file name="u1595-4.png" crc="363685028" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="u1601-15.png" crc="91982490" ref="historia"/>
+    <file name="3 conversion 280717.jpg" crc="39234849" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="historia:productos:servicio:faq-s:compromiso:contacto:index"/>
+    <file name="u4378.png" crc="3926855987" ref="historia"/>
+    <file name="u4378-a.png" crc="3871413127" ref="historia"/>
+    <file name="u4363-4-a.png" crc="4245122888" ref="historia"/>
+    <file name="u4346.png" crc="498473103" ref="historia"/>
+    <file name="u4346-a.png" crc="331386598" ref="historia"/>
+    <file name="u4387.png" crc="58924502" ref="historia"/>
+    <file name="u4387-a.png" crc="3799007235" ref="historia"/>
+    <file name="u4371.png" crc="4065901779" ref="historia"/>
+    <file name="u4371-a.png" crc="238587505" ref="historia"/>
+    <file name="u4358.png" crc="372524460" ref="historia"/>
+    <file name="u4358-a.png" crc="4010638923" ref="historia"/>
+    <file name="u4350.png" crc="490820493" ref="historia"/>
+    <file name="u4350-a.png" crc="179073115" ref="historia"/>
+    <file name="u805-12.png" crc="472612110" ref="historia:productos:servicio:faq-s:compromiso:contacto:index:caja-regular:caja-bliss-nº2-o-nº4:caja-suajada:crucetas:caja-tapas-yo-fondos-cruzados:divisiones:caja-traslape:caja-telescópica"/>
+    <file name="u2685-4.png" crc="431944260" ref="productos"/>
+    <file name="u4513.png" crc="3926855987" ref="productos"/>
+    <file name="u4513-a.png" crc="3871413127" ref="productos"/>
+    <file name="u4494.png" crc="4232007188" ref="productos"/>
+    <file name="u4494-a.png" crc="4245122888" ref="productos"/>
+    <file name="u4520.png" crc="498473103" ref="productos"/>
+    <file name="u4520-a.png" crc="331386598" ref="productos"/>
+    <file name="u4506-4-a.png" crc="3799007235" ref="productos"/>
+    <file name="u4537.png" crc="4065901779" ref="productos"/>
+    <file name="u4537-a.png" crc="238587505" ref="productos"/>
+    <file name="u4528.png" crc="372524460" ref="productos"/>
+    <file name="u4528-a.png" crc="4010638923" ref="productos"/>
+    <file name="u4501.png" crc="490820493" ref="productos"/>
+    <file name="u4501-a.png" crc="179073115" ref="productos"/>
+    <file name="imagen pegada 544x197.jpg" crc="4196721075" seo="true" ref="productos:caja-regular">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="caja-regular" alt=""/>
+    </file>
+    <file name="imagen pegada 544x450.jpg" crc="4113020955" seo="true" ref="caja-suajada">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="caja-suajada" alt=""/>
+    </file>
+    <file name="imagen pegada 375x304.jpg" crc="4288204599" seo="true" ref="caja-tapas-yo-fondos-cruzados">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="caja-tapas-yo-fondos-cruzados" alt=""/>
+    </file>
+    <file name="imagen pegada 544x188.jpg" crc="4264301746" seo="true" ref="productos:caja-traslape">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="caja-traslape" alt=""/>
+    </file>
+    <file name="imagen pegada 544x1972.jpg" crc="317866545" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="imagen pegada 544x202.jpg" crc="59213481" seo="true" ref="productos:caja-bliss-nº2-o-nº4">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="caja-bliss-nº2-o-nº4" alt=""/>
+    </file>
+    <file name="imagen pegada 544x232.jpg" crc="4127906516" seo="true" ref="productos:crucetas">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="crucetas" alt=""/>
+    </file>
+    <file name="imagen pegada 110x102.jpg" crc="4013229342" seo="true" ref="productos:divisiones">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="divisiones" alt=""/>
+    </file>
+    <file name="imagen pegada 110x113.jpg" crc="3907781009" seo="true" ref="productos:divisiones">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="divisiones" alt=""/>
+    </file>
+    <file name="imagen pegada 110x137.jpg" crc="242585271" seo="true" ref="productos:divisiones">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="divisiones" alt=""/>
+    </file>
+    <file name="imagen pegada 544x322.jpg" crc="466961544" seo="true" ref="caja-telescópica">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="caja-telescópica" alt=""/>
+    </file>
+    <file name="u2054-17.png" crc="4232614937" ref="servicio"/>
+    <file name="4 conversion 280717.jpg" crc="504248011" seo="true" ref="servicio">
+      <caption webpage="servicio" alt=""/>
+    </file>
+    <file name="u4813.png" crc="3926855987" ref="servicio"/>
+    <file name="u4813-a.png" crc="3871413127" ref="servicio"/>
+    <file name="u4794.png" crc="4232007188" ref="servicio"/>
+    <file name="u4794-a.png" crc="4245122888" ref="servicio"/>
+    <file name="u4820-4-a.png" crc="331386598" ref="servicio"/>
+    <file name="u4806.png" crc="58924502" ref="servicio"/>
+    <file name="u4806-a.png" crc="3799007235" ref="servicio"/>
+    <file name="u4837.png" crc="4065901779" ref="servicio"/>
+    <file name="u4837-a.png" crc="238587505" ref="servicio"/>
+    <file name="u4828.png" crc="372524460" ref="servicio"/>
+    <file name="u4828-a.png" crc="4010638923" ref="servicio"/>
+    <file name="u4801.png" crc="490820493" ref="servicio"/>
+    <file name="u4801-a.png" crc="179073115" ref="servicio"/>
+    <file name="u2721-113.png" crc="4055645737" ref="faq-s"/>
+    <file name="u4663.png" crc="3926855987" ref="faq-s"/>
+    <file name="u4663-a.png" crc="3871413127" ref="faq-s"/>
+    <file name="u4644.png" crc="4232007188" ref="faq-s"/>
+    <file name="u4644-a.png" crc="4245122888" ref="faq-s"/>
+    <file name="u4670.png" crc="498473103" ref="faq-s"/>
+    <file name="u4670-a.png" crc="331386598" ref="faq-s"/>
+    <file name="u4656.png" crc="58924502" ref="faq-s"/>
+    <file name="u4656-a.png" crc="3799007235" ref="faq-s"/>
+    <file name="u4687-4-a.png" crc="238587505" ref="faq-s"/>
+    <file name="u4678.png" crc="372524460" ref="faq-s"/>
+    <file name="u4678-a.png" crc="4010638923" ref="faq-s"/>
+    <file name="u4651.png" crc="490820493" ref="faq-s"/>
+    <file name="u4651-a.png" crc="179073115" ref="faq-s"/>
+    <file name="u2724-45.png" crc="4135673836" ref="compromiso"/>
+    <file name="u4963.png" crc="3926855987" ref="compromiso"/>
+    <file name="u4963-a.png" crc="3871413127" ref="compromiso"/>
+    <file name="u4944.png" crc="4232007188" ref="compromiso"/>
+    <file name="u4944-a.png" crc="4245122888" ref="compromiso"/>
+    <file name="u4970.png" crc="498473103" ref="compromiso"/>
+    <file name="u4970-a.png" crc="331386598" ref="compromiso"/>
+    <file name="u4956.png" crc="58924502" ref="compromiso"/>
+    <file name="u4956-a.png" crc="3799007235" ref="compromiso"/>
+    <file name="u4987.png" crc="4065901779" ref="compromiso"/>
+    <file name="u4987-a.png" crc="238587505" ref="compromiso"/>
+    <file name="u4978-4-a.png" crc="4010638923" ref="compromiso"/>
+    <file name="u4951.png" crc="490820493" ref="compromiso"/>
+    <file name="u4951-a.png" crc="179073115" ref="compromiso"/>
+    <file name="u2727-11.png" crc="3828782033" ref="contacto"/>
+    <file name="img-20170727-wa0023.jpg" crc="342130255" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u5113.png" crc="3926855987" ref="contacto"/>
+    <file name="u5113-a.png" crc="3871413127" ref="contacto"/>
+    <file name="u5094.png" crc="4232007188" ref="contacto"/>
+    <file name="u5094-a.png" crc="4245122888" ref="contacto"/>
+    <file name="u5120.png" crc="498473103" ref="contacto"/>
+    <file name="u5120-a.png" crc="331386598" ref="contacto"/>
+    <file name="u5106.png" crc="58924502" ref="contacto"/>
+    <file name="u5106-a.png" crc="3799007235" ref="contacto"/>
+    <file name="u5137.png" crc="4065901779" ref="contacto"/>
+    <file name="u5137-a.png" crc="238587505" ref="contacto"/>
+    <file name="u5128.png" crc="372524460" ref="contacto"/>
+    <file name="u5128-a.png" crc="4010638923" ref="contacto"/>
+    <file name="u5101-4-a.png" crc="179073115" ref="contacto"/>
+    <file name="1 conversion 280717-crop-u5361.jpg" crc="286207007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20170727-wa0018.jpg" crc="179105707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8 conversion 280717-crop-u5494.jpg" crc="4020930757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10 conversion 280717-crop-u5521.jpg" crc="471854713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1310-7.png" crc="442989250" ref="index"/>
+    <file name="u1757-4-a.png" crc="3871413127" ref="index"/>
+    <file name="u1786.png" crc="4232007188" ref="index"/>
+    <file name="u1786-a.png" crc="4245122888" ref="index"/>
+    <file name="u1766.png" crc="498473103" ref="index"/>
+    <file name="u1766-a.png" crc="331386598" ref="index"/>
+    <file name="u1779.png" crc="58924502" ref="index"/>
+    <file name="u1779-a.png" crc="3799007235" ref="index"/>
+    <file name="u1800.png" crc="4065901779" ref="index"/>
+    <file name="u1800-a.png" crc="238587505" ref="index"/>
+    <file name="u1772.png" crc="372524460" ref="index"/>
+    <file name="u1772-a.png" crc="4010638923" ref="index"/>
+    <file name="u1794.png" crc="490820493" ref="index"/>
+    <file name="u1794-a.png" crc="179073115" ref="index"/>
+    <file name="u2682-8.png" crc="4094992723" ref="productos"/>
+    <file name="u6403-4.png" crc="4164016908" ref="productos"/>
+    <file name="imagen pegada 544x450188x156.jpg" crc="3853584996" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="u6409-4.png" crc="495918461" ref="productos"/>
+    <file name="imagen pegada 375x304194x157.jpg" crc="342213590" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="u6415-4.png" crc="3954950657" ref="productos"/>
+    <file name="u6424-4.png" crc="4151860628" ref="productos"/>
+    <file name="u6430-4.png" crc="349929683" ref="productos"/>
+    <file name="u6439-4.png" crc="533034981" ref="productos"/>
+    <file name="u6445-4.png" crc="4221652429" ref="productos"/>
+    <file name="imagen pegada 544x322197x117.jpg" crc="4117494664" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="u6472-4-a.png" crc="177634893" ref="caja-regular"/>
+    <file name="u6480-19-a.png" crc="3988057803" ref="caja-regular"/>
+    <file name="u6394-13.png" crc="4106521953" ref="caja-regular"/>
+    <file name="u6525-4.png" crc="483427009" ref="caja-bliss-nº2-o-nº4"/>
+    <file name="u6522-19.png" crc="16068033" ref="caja-bliss-nº2-o-nº4"/>
+    <file name="u6521-13.png" crc="4106521953" ref="caja-bliss-nº2-o-nº4"/>
+    <file name="u6567-4.png" crc="3865408417" ref="caja-suajada"/>
+    <file name="u6568-19.png" crc="16068033" ref="caja-suajada"/>
+    <file name="u6566-13.png" crc="4106521953" ref="caja-suajada"/>
+    <file name="u6591-4.png" crc="277270489" ref="crucetas"/>
+    <file name="u6593-19.png" crc="16068033" ref="crucetas"/>
+    <file name="u6592-13.png" crc="4106521953" ref="crucetas"/>
+    <file name="u6657-4.png" crc="3773057306" ref="caja-tapas-yo-fondos-cruzados"/>
+    <file name="u6656-19.png" crc="16068033" ref="caja-tapas-yo-fondos-cruzados"/>
+    <file name="u6653-13.png" crc="4106521953" ref="caja-tapas-yo-fondos-cruzados"/>
+    <file name="u6686-4.png" crc="4197645783" ref="divisiones"/>
+    <file name="u6690-19.png" crc="16068033" ref="divisiones"/>
+    <file name="u6687-13.png" crc="4106521953" ref="divisiones"/>
+    <file name="u6713-4.png" crc="522754985" ref="caja-traslape"/>
+    <file name="u6712-19.png" crc="16068033" ref="caja-traslape"/>
+    <file name="u6709-13.png" crc="4106521953" ref="caja-traslape"/>
+    <file name="u6736-4.png" crc="3804400087" ref="caja-telescópica"/>
+    <file name="u6737-19.png" crc="16068033" ref="caja-telescópica"/>
+    <file name="u6733-13.png" crc="4106521953" ref="caja-telescópica"/>
+  </folder>
+  <file name="historia.html" crc="72179892" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="productos.html" crc="376050760" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="servicio.html" crc="4290286304" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="faq-s.html" crc="3789662834" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="compromiso.html" crc="4111199809" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="contacto.html" crc="4131706929" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="index.html" crc="229955840" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="caja-regular.html" crc="3777403433" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="caja-bliss-nº2-o-nº4.html" crc="3839353096" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="caja-suajada.html" crc="4266765915" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="crucetas.html" crc="3850044369" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="caja-tapas-yo-fondos-cruzados.html" crc="119041596" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="divisiones.html" crc="4008719055" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="caja-traslape.html" crc="3916702193" seo="true" mt="1559136286548" redirect="true"/>
+  <file name="caja-telescópica.html" crc="4264055546" seo="true" mt="1559136286548" redirect="true"/>
+</manifest>
